@@ -14,6 +14,8 @@
 
 - 📝 Con conocimientos básicos - intermedios en programación.
 
+---
+
 <div align="left">
     <h3>🔨 Lengaujes y Herramientas</h3>
     <div>
