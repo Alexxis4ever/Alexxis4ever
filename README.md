@@ -2,9 +2,6 @@
     <h1 align="center">👋 Hi I'm Jackson</h1>
 </div>
 
----
-
-
 ### 👨‍💻 Acerca de mí :
 
 - 📫 Como llegar a mi: **alexisjacksonlon213@gmail.com**
