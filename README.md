@@ -7,7 +7,7 @@
 
 - 📫 Como llegar a mi: **alexisjacksonlon213@gmail.com**
 
-- 🌱 Actualmente estudiante de análisis y desarrollo de sistemas de información.
+- 🌱 Actualmente estudiante de desarrollo de software.
 
 - 📝 Con conocimientos básicos - intermedios en programación.
 
