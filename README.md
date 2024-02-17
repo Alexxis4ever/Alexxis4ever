@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">👋 Hola soy Jackson</h1>
-    <h3 align="center">A software developer based Colombia</h3>
+    <h3 align="center">Un desarrollador de software con sede en Colombia.</h3>
 </div>
 
 ### 👨‍💻 Acerca de mí :
