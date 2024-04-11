@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando en **una Consultoría**
+ 🔭 Actualmente estoy trabajando en **SL Consulting: Insights & Arquetypos**
  
  🌱 Actualmente estoy aprendiendo **Angular**
 
@@ -43,9 +43,11 @@
 <h2 align="center">⚡ Estadísticas ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alexxis4ever&theme=nightowl&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" alt="streak stats"/>
+  <img width=390 src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alexxis4ever&theme=nightowl&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+    
   <img width=390 src="https://github-readme-stats-Alexxis4ever.vercel.app/api?username=Alexxis4ever&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
+  
   <img width=325 align="center" src="https://github-readme-stats-Alexxis4ever.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
