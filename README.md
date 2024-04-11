@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alexxis4ever.Alexxis4ever" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Jackson+Londoño!;" />
@@ -10,7 +9,7 @@
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando en **SL Consulting: Insights & Arquetypos**
+ 🔭 Actualmente estoy trabajando en **SL Consulting: Insights & Arquetypos.**
  
  🌱 Actualmente estoy aprendiendo **Angular**
 
@@ -34,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,mysql" /><br><br>
 </div>
 
 <br/>
