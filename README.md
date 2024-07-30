@@ -11,7 +11,7 @@
  
  🔭 Actualmente estoy trabajando en **SL Consulting: Insights & Arquetypos.**
  
- 🌱 Actualmente estoy aprendiendo nuevas **herramientas**
+ 🌱 Aprendiendo nuevas **herramientas**
 
  </div>
  
